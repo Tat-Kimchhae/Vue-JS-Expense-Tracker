@@ -36,3 +36,6 @@ npm run dev
 ```sh
 npm run build
 ```
+## 🚀 Demo
+
+Check out the live site here: [Demo on Netlify](https://vue-js-expense-tracker-demo.netlify.app/)
